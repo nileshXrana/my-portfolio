@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     title: seoData.title,
     description: seoData.description,
     images: [seoData.image],
-    creator: '@nilexrana',
+    creator: '@nileshxrana',
   },
   icons: {
     icon: '/favicon.ico',
@@ -77,10 +77,10 @@ export default function RootLayout({
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: 'Nilesh Rana',
-    alternateName: 'nilexrana',
+    alternateName: 'nileshxrana',
     url: 'https://nileshrana.me',
     image: 'https://nileshrana.me/nilesh.jpeg',
-    email: 'info.nilexrana@gmail.com',
+    email: 'info.nileshxrana@gmail.com',
     jobTitle: 'Web Developer',
     worksFor: {
       '@type': 'Organization',
@@ -89,11 +89,11 @@ export default function RootLayout({
     description:
       'Web Developer specializing in React.js, Next.js, Node.js, TypeScript, and modern web technologies.',
     sameAs: [
-      'https://github.com/nilexrana',
-      'https://www.linkedin.com/in/nilexrana/',
-      'https://leetcode.com/u/nileXrana/',
-      'https://www.codechef.com/users/nilexrana',
-      'https://codeforces.com/profile/nileXrana',
+      'https://github.com/nileshxrana',
+      'https://www.linkedin.com/in/nileshxrana/',
+      'https://leetcode.com/u/nileshxrana/',
+      'https://www.codechef.com/users/nileshxrana',
+      'https://codeforces.com/profile/nileshxrana',
     ],
     knowsAbout: [
       'React.js',

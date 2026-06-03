@@ -7,14 +7,14 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  leetcode: 'https://leetcode.com/u/nileXrana/',
-  github: 'https://github.com/nilexrana',
-  linkedin: 'https://www.linkedin.com/in/nilexrana/',
+  leetcode: 'https://leetcode.com/u/nileshxrana/',
+  github: 'https://github.com/nileshxrana',
+  linkedin: 'https://www.linkedin.com/in/nileshxrana/',
 };
 
 export const author = {
   name: 'Nilesh Rana',
-  email: 'info.nilexrana@gmail.com',
+  email: 'info.nileshxrana@gmail.com',
 };
 
 export const seoData = {
@@ -38,8 +38,8 @@ export const seoData = {
     'Backend Developer',
     'JavaScript Developer',
     'MERN Stack Developer',
-    'nilexrana',
-    '@nilexrana',
+    'nileshxrana',
+    '@nileshxrana',
     'Nilesh Rana GitHub',
     'Nilesh Rana LinkedIn',
     'Freelance Web Developer',
