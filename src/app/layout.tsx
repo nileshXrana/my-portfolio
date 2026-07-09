@@ -80,7 +80,7 @@ export default function RootLayout({
     alternateName: 'nileshxrana',
     url: 'https://nileshrana.me',
     image: 'https://nileshrana.me/nilesh.jpeg',
-    email: 'info.nileshxrana@gmail.com',
+    email: 'nileshxrana@gmail.com',
     jobTitle: 'Web Developer',
     worksFor: {
       '@type': 'Organization',
