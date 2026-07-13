@@ -24,16 +24,7 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, I'm Nilesh, a third-year B.Tech Computer Science and Engineering
-            student at{' '}
-            <Link
-              href="https://www.lpu.in/"
-              target="_blank"
-              className="text-accent"
-            >
-              Lovely Professional University
-            </Link>
-            .<br /> I’m a web developer who builds fast, modern, and
+            Hi, I'm Nilesh, a web developer who builds fast, modern, and
             scalable web applications. I love turning ideas into clean,
             functional products using modern tools and technologies.
           </p>
