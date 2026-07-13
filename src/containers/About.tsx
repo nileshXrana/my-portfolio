@@ -29,9 +29,7 @@ const About = () => {
             functional products using modern tools and technologies.
           </p>
           <p>
-            Also my focus is in problem-solving with experience across LeetCode,
-            geekForGeeks, CodeChef, CodeForces, and other competitive coding
-            platforms with total of 500+ problems solved till date.
+            Also my focus is in problem-solving where I've solved 500+ problems across different coding platforms.
           </p>
 
           {list && (
