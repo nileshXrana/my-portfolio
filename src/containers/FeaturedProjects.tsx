@@ -15,8 +15,8 @@ const FeaturedProjects = () => {
           {featuredProjectsSection.title}
         </h2>
 
-        <p className="font-mono lg:hidden text-accent capitalize text-xs lg:mb-2.5">
-          featured projects
+        <p className="font-mono text-accent capitalize text-xs lg:mb-2.5">
+          all projects are open-source and available on GitHub
         </p>
       </div>
 

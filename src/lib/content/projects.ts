@@ -11,7 +11,7 @@ export const projectsSection: ProjectsSectionType = {
       repo: 'https://github.com/nileshXrana/OptiSense-AI',
       img: '/optisense.png',
       year: 2025,
-      tags: ['NextJs', 'TypeScript', 'TailwindCSS', 'Prisma', 'Razorpay'],
+      tags: ['NextJs', 'TypeScript'],
     },
     {
       id: getId(),
@@ -20,7 +20,7 @@ export const projectsSection: ProjectsSectionType = {
       repo: 'https://github.com/nileshXrana/Syntaxist-Online-Compiler',
       img: '/syntaxist.png',
       year: 2025,
-      tags: ['NextJs', 'TypeScript', 'Express', 'WebSocket', 'Docker'],
+      tags: ['NextJs', 'Express'],
     },
     {
       id: getId(),

@@ -159,9 +159,6 @@ const FeaturedProject = ({
 
         <div className={cn('bg-bg-secondary p-5 space-y-2')}>
           <div>
-            {/* <div className="font-mono text-accent capitalize text-xs lg:mb-2.5">
-              featured project
-            </div> */}
             <h2 className="heading-tertiary !text-white !font-semibold !normal-case">
               <a
                 href={url}
