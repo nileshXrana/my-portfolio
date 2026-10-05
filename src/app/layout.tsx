@@ -87,13 +87,11 @@ export default function RootLayout({
       name: 'Freelance',
     },
     description:
-      'Full Stack Developer specializing in React.js, Next.js, Node.js, TypeScript, and modern web technologies.',
+      'Full Stack Developer specializing in React.js, Next.js, Node.js, Nest.js, TypeScript, and modern web technologies.',
     sameAs: [
       'https://github.com/nileshxrana',
       'https://www.linkedin.com/in/nileshxrana/',
       'https://leetcode.com/u/nileshxrana/',
-      'https://www.codechef.com/users/nileshxrana',
-      'https://codeforces.com/profile/nileshxrana',
     ],
     knowsAbout: [
       'React.js',
