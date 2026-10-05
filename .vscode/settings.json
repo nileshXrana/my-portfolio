@@ -14,5 +14,6 @@
     "containerClassName"
   ],
   "typescript.preferences.importModuleSpecifier": "non-relative",
-  "WillLuke.nextjs.hasPrompted": true
+  "WillLuke.nextjs.hasPrompted": true,
+  "js/ts.tsdk.path": "node_modules/typescript/lib"
 }

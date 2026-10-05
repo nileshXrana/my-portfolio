@@ -22,8 +22,8 @@ export const seoData = {
   description:
     'Nilesh Rana is a passionate web developer specializing in React.js, Next.js, Node.js, TypeScript, and modern web technologies. Building scalable, user-focused web applications with clean code and exceptional UI/UX. Available for freelance projects and full-time opportunities.',
   author: author.name,
-  image: 'https://nileshrana.me/nilesh.jpeg',
-  url: 'https://nileshrana.me',
+  image: 'https://nileshrana.tech/nilesh.jpeg',
+  url: 'https://nileshrana.tech',
   keywords: [
     'Nilesh Rana',
     'Nilesh Rana Developer',

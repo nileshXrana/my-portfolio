@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my work as a Web Developer. Built with Next.js, TypeScript, and Tailwind CSS, featuring smooth animations and an intuitive user experience.
 
-🔗 **Live Demo:** [nileshrana.me](https://nileshrana.me)
+🔗 **Live Demo:** [nileshrana.tech](https://nileshrana.tech)
 
 ## ✨ Features
 
@@ -77,7 +77,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Nilesh Rana - [@nileshxrana](https://github.com/nileshxrana)
 
-Portfolio: [nileshrana.me](https://nileshrana.me)
+Portfolio: [nileshrana.tech](https://nileshrana.tech)
 
 ## 📄 License
 

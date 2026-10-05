@@ -43,7 +43,7 @@ export const projectsSection: ProjectsSectionType = {
     {
       id: getId(),
       name: 'bit links',
-      url: 'https://bitlinks.nileshrana.me',
+      url: 'https://bitlinks.nileshrana.tech',
       repo: 'https://github.com/nileshxrana/BitLinks',
       img: '/bitlinks.png',
       year: 2025,

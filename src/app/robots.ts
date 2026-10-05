@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/_next/', '/scripts/'],
     },
-    sitemap: 'https://nileshrana.me/sitemap.xml',
+    sitemap: 'https://nileshrana.tech/sitemap.xml',
   };
 }
