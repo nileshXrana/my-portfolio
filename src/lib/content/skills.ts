@@ -6,19 +6,17 @@ export const skillsSection: SkillsSectionType = {
   skills: [
     {
       id: getId(),
-      title: 'web development',
-      // animation lottie file: https://lottiefiles.com/
+      title: 'Full Stack Development',
       lottie: {
         light: '/lotties/frontend.json',
         dark: '/lotties/frontend-dark.json',
       },
       points: [
         'Building end-to-end web applications using Next.js with TypeScript, TailwindCSS and Prisma ORM.',
-        'Creating RESTful APIs using Express for backend development.',
-        'Deploying applications on Vercel, Render, Railway and Dockerized environments.',
+        'Creating RESTful APIs using Node.js, Express.js, Nest.js for backend development.',
+        'Deploying applications on Vercel, Render, Railway, VPS and Dockerized environments.',
       ],
       softwareSkills: [
-        // iconify icons: https://icon-sets.iconify.design/
         { name: 'html-5', icon: 'vscode-icons:file-type-html' },
         { name: 'CSS-3', icon: 'vscode-icons:file-type-css' },
         { name: 'javaScript', icon: 'vscode-icons:file-type-js-official' },

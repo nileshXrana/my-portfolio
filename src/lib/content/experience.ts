@@ -10,7 +10,10 @@ export const experienceSection: ExperienceSectionType = {
       started: 'June 2026',
       upto: 'present',
       tasks: [
-        'TechStack: Next.js, TypeScript, Material UI.'
+        'Developing and enhancing full-stack features across the frontend and backend.',
+        'Working on modular backend architecture, APIs, authentication, and database integrations.',
+        'Implementing asynchronous workflows using RabbitMQ and improving application reliability.',
+        'TechStack: Next.js, NestJS, TypeScript, PostgreSQL, TypeORM, RabbitMQ, Docker.',
       ],
     },
     {
@@ -23,7 +26,7 @@ export const experienceSection: ExperienceSectionType = {
         'Enhancing a dashboard with RBAC authentication, lead ingestion, and multi-stage pipelines.',
         'Reducing lead handling turnaround by 35% across daily operations.',
         'Fixing bugs, handling updates, and continuously enhancing the platform based on user needs and feedback.',
-        'TechStack: Next.js, Node.js, TypeScript, MongoDB.'
+        'TechStack: Next.js, Node.js, TypeScript, MongoDB.',
       ],
     },
   ],
