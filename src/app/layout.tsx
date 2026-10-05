@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     apple: '/favicon.ico',
   },
   verification: {
-    google: 'google-site-verification-code', // Add your Google verification code here
+    google: 'vcJnt68YSFBW6wcdVVh4ca3GkwXiujEvlyoa4xKFz8U',
   },
 };
 
